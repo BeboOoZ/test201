@@ -2,7 +2,7 @@
         
         <?php
 		
-		ini_set ('display_errors', 'on')
+		 ini_set ('display_errors', 'on')
 		
 		define ("DB_NAME","test201");
 		define ("DB_USERNAME","test201");
